@@ -1,0 +1,25 @@
+# Build outputs
+Ummm.app/
+Ummm.dmg
+UmmmBin
+UmmmBin_arm64
+UmmmBin_x86_64
+
+# Icon build outputs
+Ummm.icns
+Ummm.iconset/
+
+# Landing page (separate repo)
+landing/
+
+# IDE and system files
+.qoder/
+.DS_Store
+*.swp
+*.swo
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+DerivedData/

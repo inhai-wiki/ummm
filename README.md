@@ -2,7 +2,9 @@
 
 macOS 语音转文字工具，按住说话，松开输入，比打字快 3 倍。
 
-**Landing Page**: https://github.com/inhai-wiki/ummm-landing
+**在线页面**: https://ummm-landing.vercel.app/
+
+**Landing Page 源码**: https://github.com/inhai-wiki/ummm-landing
 
 **下载安装包**: https://inhai-wiki.oss-cn-hangzhou.aliyuncs.com/ummm/Ummm.dmg
 
@@ -136,7 +138,8 @@ https://bailian.console.aliyun.com/cn-beijing/?source_channel=%22ummm%22/?tab=mo
 
 | 资源 | 链接 |
 |------|------|
-| Landing Page | https://github.com/inhai-wiki/ummm-landing |
+| 在线页面 | https://ummm-landing.vercel.app/ |
+| Landing Page 源码 | https://github.com/inhai-wiki/ummm-landing |
 | 下载安装包 | https://inhai-wiki.oss-cn-hangzhou.aliyuncs.com/ummm/Ummm.dmg |
 | 获取 API Key | https://bailian.console.aliyun.com/cn-beijing/?source_channel=%22ummm%22?tab=app#/api-key |
 | 模型微调 | https://bailian.console.aliyun.com/cn-beijing/?source_channel=%22ummm%22/?tab=model#/efm/model_experience_center/voice |

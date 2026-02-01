@@ -1,4 +1,5 @@
 # Ummm
+<img width="2940" height="1604" alt="image" src="https://github.com/user-attachments/assets/e9ad1fca-90f9-406e-9852-012b492ab513" />
 
 macOS 语音转文字工具，按住说话，松开输入，比打字快 3 倍。
 
